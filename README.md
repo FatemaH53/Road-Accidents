@@ -19,3 +19,15 @@ MS Excel - Basic functions,
 Use the filter panel to toggle to the year and area you like to analysis the accidents .
 Eg: If you select year 2021 and urban area then you will see on the dashboard all the information for the year 2021 for urban area - Casualties by the road type , road surfaces , light conditions for the road , fatal casualties, serious casualties, slight casualties and casualties by car . You will also be able to see numbers of total casualties by vehicle type : car, bus, trucks etc . Current year and previous year casualties will also be displayed for your deeper analysis. At the top you will get overll total casualties.
 
+
+![image](https://github.com/user-attachments/assets/0111dd7e-5f43-4c13-8477-4e71b4cfd1bf)
+
+
+This whole project was done on 
+![image](https://github.com/user-attachments/assets/3b67f486-1458-4727-b5ad-209a5397fe35)
+
+## 
+Email: imani.fatima@gmail.com
+LinkedIn: www.linkedin.com/in/fatema-hyd
+
+
